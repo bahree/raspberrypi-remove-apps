@@ -17,6 +17,7 @@ sudo apt-get --yes remove --purge epiphany-browser*
 sudo apt-get --yes remove --purge sonic-pi
 sudo apt-get --yes remove --purge supercollider*
 sudo apt-get --yes remove --purge greenfoot
+sudo apt-get --yes remove --purge greenfoot-unbundled
 sudo apt-get --yes remove --purge bluej
 sudo apt-get --yes remove --purge sense-hat
 sudo apt-get --yes remove --purge sense-emu-tools
