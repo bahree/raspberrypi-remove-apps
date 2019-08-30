@@ -46,14 +46,14 @@ thonny python
 geany  
 VNC viewer  
 VNC server  
-Dillo Web Browser
+Dillo Web Browser  
 GPicture Viewer
-Penguins Puzzle
-Oracle Java8 JDK
-Oracle Java8 JRE
-Oracle Java7 JDK
-Oracle Java7 JRE
-Open JDK8 JRE
+Penguins Puzzle 
+Oracle Java8 JDK 
+Oracle Java8 JRE 
+Oracle Java7 JDK 
+Oracle Java7 JRE 
+Open JDK8 JRE 
 Squeak/SmallTalk (squeak)
 JACK Audio Connection Kit (qjackctl)
 Epiphany Web Browser
