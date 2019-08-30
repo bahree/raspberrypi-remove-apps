@@ -46,8 +46,8 @@ thonny python
 geany  
 VNC viewer  
 VNC server  
-Dillo Web Browser  
-GPicture Viewer
+Dillo Web Browser
+GPicture Viewer 
 Penguins Puzzle 
 Oracle Java8 JDK 
 Oracle Java8 JRE 
